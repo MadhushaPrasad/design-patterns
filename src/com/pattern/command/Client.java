@@ -11,9 +11,6 @@ package com.pattern.command;
  */
 public class Client {
 
-    /**
-     * @param args
-     */
     public static void main(String[] args) {
 
         RemoteController remoteController = new RemoteController();
